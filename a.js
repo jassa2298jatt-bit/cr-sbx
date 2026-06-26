@@ -1,3 +1,3 @@
-const unused=7
-var y=3
-console.log(y)
+const unused=11
+var w=5
+console.log(w)
