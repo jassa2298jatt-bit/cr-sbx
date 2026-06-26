@@ -1,3 +1,3 @@
-const unused=5
-var x=1
-console.log(x)
+const unused=7
+var y=3
+console.log(y)
